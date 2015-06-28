@@ -40,7 +40,7 @@
   },
   "optionalDependencies": {
     "iconv": "~2.1.8",
-    "node-icu-charset-detector": "0.1.0"
+    
   },
   "devDependencies": {
     "faucet": "0.0.1",
